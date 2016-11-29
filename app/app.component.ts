@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+//We call the spotify service 
 import {SpotifyService} from './services/spotify.service';
 
 @Component({
